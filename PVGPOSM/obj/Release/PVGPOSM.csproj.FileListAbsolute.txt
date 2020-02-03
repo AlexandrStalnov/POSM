@@ -1,0 +1,12 @@
+D:\ProjectSHARP\PVGPOSM\PVGPOSM\bin\Release\PVGPOSM.exe.config
+D:\ProjectSHARP\PVGPOSM\PVGPOSM\bin\Release\PVGPOSM.exe
+D:\ProjectSHARP\PVGPOSM\PVGPOSM\bin\Release\PVGPOSM.pdb
+D:\ProjectSHARP\PVGPOSM\PVGPOSM\obj\Release\PVGPOSM.Form1.resources
+D:\ProjectSHARP\PVGPOSM\PVGPOSM\obj\Release\PVGPOSM.Form2.resources
+D:\ProjectSHARP\PVGPOSM\PVGPOSM\obj\Release\PVGPOSM.Form3.resources
+D:\ProjectSHARP\PVGPOSM\PVGPOSM\obj\Release\PVGPOSM.Properties.Resources.resources
+D:\ProjectSHARP\PVGPOSM\PVGPOSM\obj\Release\PVGPOSM.csproj.GenerateResource.cache
+D:\ProjectSHARP\PVGPOSM\PVGPOSM\obj\Release\PVGPOSM.csproj.CoreCompileInputs.cache
+D:\ProjectSHARP\PVGPOSM\PVGPOSM\obj\Release\PVGPOSM.exe
+D:\ProjectSHARP\PVGPOSM\PVGPOSM\obj\Release\PVGPOSM.pdb
+D:\ProjectSHARP\PVGPOSM\PVGPOSM\obj\Release\PVGPOSM.csprojAssemblyReference.cache
