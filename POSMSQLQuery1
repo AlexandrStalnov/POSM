@@ -1,0 +1,22 @@
+CREATE TABLE [BSJobs].[admin].[POSM] (
+    [Id]            INT            IDENTITY (1, 1) NOT NULL,
+    [Code]          VARCHAR (255)  NOT NULL,
+    [Number]        VARCHAR (255)  NULL,
+    [Type]          NVARCHAR (255) NULL,
+    [PrName]        NVARCHAR (255) NULL,
+    [DataLaunch]    DATE           NULL,
+    [Quantity]      INT			   NULL,
+    [Cost]          MONEY          NULL,
+    [TotalHeight]   INT		       NULL,
+    [Height]        INT            NULL,
+    [Width]         INT            NULL,
+    [Depth]         INT			   NULL,
+    [LoadShelf]     FLOAT (53)     NULL,
+    [QuantityShelf] VARCHAR (255)  NULL,
+    [Customer]      NVARCHAR (255) NULL,
+    [TypePrint]     NVARCHAR (255) NULL,
+    [ProfileYN]     NVARCHAR (255) NULL,
+	[Photo]			NVARCHAR (255) NULL,
+	[Des]             NTEXT        NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
